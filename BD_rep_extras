@@ -1,0 +1,16 @@
+Opera					http://deb.opera.com/opera-stable/ stable non-free								A5C7FF72
+Rhythymbox-plugins		http://ppa.launchpad.net/fossfreedom/rhythmbox-plugins/ubuntu xenial main		F4FE239D
+Megasync				http://mega.co.nz/linux/MEGAsync/Debian_8.0/ ./									23ACD201
+Pulseaudio-Equalizer	http://ppa.launchpad.net/alex-wv/pulseaudio-equalizer-ppa/ubuntu trusty main	32DE30FB
+Sublime-Text			https://download.sublimetext.com/ apt/stable/									BD3DF454
+google_drive_ocamlfuse	http://ppa.launchpad.net/alessandro-strada/ppa/ubuntu xenial main				F639B041
+Vivaldi					http://repo.vivaldi.com/stable/deb/ stable main									EFB20B23
+Pale-moon				http://download.opensuse.org/repositories/home:/stevenpusser/Debian_8.0/ /		8719FCE4
+Grub-customizer			http://ppa.launchpad.net/danielrichter2007/grub-customizer/ubuntu trusty main	3F055C03
+Boot-repair				http://ppa.launchpad.net/yannubuntu/boot-repair/ubuntu trusty main				60D8DA0B
+Burg					http://ppa.launchpad.net/n-muench/burg/ubuntu xenial main						EAE0D85C
+Multimidia				http://www.deb-multimedia.org jessie main non-free								65558117
+Dropbox					http://linux.dropbox.com/debian jessie main										5044912E
+Spotify					http://repository.spotify.com stable non-free									48BF1C90
+Nemo-plugins			http://ppa.launchpad.net/atareao/nemo-extensions/ubuntu trusty main				36FD5529
+Java					http://ppa.launchpad.net/webupd8team/java/ubuntu trusty main					C2518248

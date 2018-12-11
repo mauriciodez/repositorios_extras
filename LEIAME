@@ -1,0 +1,16 @@
+## Script para gerar list de repositórios extras e instalar GPG
+
+- V1.0 >>> 10 de Dezembro de 2018
+
+*** NOTA
+
+- Arquivo externo necessário -> BD_rep_extras
+
+	* Formatação do BD_rep_extras:
+	coluna A -> Nome do list. EX: Opera
+	coluna B -> path do repositório. EX: http://deb.opera.com/opera-stable/ stable non-free
+	coluna C -> Chave Pública. EX: A5C7FF72
+		OBS: colunas separadas por "Tab"
+
+
+
